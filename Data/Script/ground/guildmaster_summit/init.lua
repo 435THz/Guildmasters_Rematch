@@ -673,7 +673,13 @@ function guildmaster_summit.PostRematch()
   UI:SetSpeaker(wigglytuff)
   UI:WaitShowDialogue("...so we'll just give you a tool of friendship instead![pause=20] Use it well! \u{266A}")
 
-  local reward = RogueEssence.Dungeon.InvItem("apricorn_perfect")
+  local reward = RogueEssence.Dungeon.InvItem("apricorn_glittery")
+  if not SV.guildmaster_summit.victories then
+    SV.guildmaster_summit.victories = 1
+  else
+    SV.guildmaster_summit.victories = math.min(SV.guildmaster_summit.victories + 1, 100)
+  end
+  SV.guildmaster_summit.rematch_defeated = true
   COMMON.GiftItem(player, reward)
 
   GAME:WaitFrames(30)
