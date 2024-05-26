@@ -681,7 +681,7 @@ function guildmaster_summit.PostRematch()
   GAME:FadeOut(true, 80)
 
   SOUND:FadeOutBGM()
-  GAME:WaitFrames(120)
+  GAME:WaitFrames(60)
 
   SV.guildmaster_summit.BossPhase = 4
   GAME:CutsceneMode(false)
@@ -693,6 +693,7 @@ function guildmaster_summit.PostRematch()
   GROUND:Hide("Lucario")
   GROUND:Hide("Wigglytuff")
 
+  SOUND:PlayBGM("A07. Summit.ogg", false)
   GAME:FadeIn(120)
 end
 
