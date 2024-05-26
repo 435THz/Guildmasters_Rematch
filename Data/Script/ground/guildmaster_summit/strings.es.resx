@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="Credits_Line_001" xml:space="preserve">
+    <value>Pokémon Mystery Dungeon:\nOrigins</value>
+  </data>
+  <data name="Credits_Line_002" xml:space="preserve">
+    <value>Diseñado, Programado, Escrito por\n\nAudino</value>
+  </data>
+  <data name="Credits_Line_004" xml:space="preserve">
+    <value>Gráficos Personalizados por\n\nLurils\nRao Kurai\nMusicalCombusken\nSilverDeoxys563\nFable</value>
+  </data>
+  <data name="Credits_Line_005" xml:space="preserve">
+    <value>Gráficos extraídos de\n\nPokémon Esmeralda\nPokémon Mundo Misterioso: Equipo de rescate Rojo\nPokémon Mundo Misterioso: Exploradores del Cielo\nPokémon Ranger: Trazos de luz</value>
+  </data>
+  <data name="Credits_Line_006" xml:space="preserve">
+    <value>Audio extraído de\n\nPokémon Mundo Misterioso: Equipo de rescate rojo\nPokémon Mundo Misterioso: Exploradores del Cielo\nPokémon Mundo Misterioso: Portales al Infinito\nZwei!!\nEtrian Odyssey\nEtrian Odyssey III: The Drowned City\nMade in Abyss</value>
+  </data>
+  <data name="Credits_Line_008" xml:space="preserve">
+    <value>Pokémon Mundo Misterioso: Orígenes es un proyecto no oficial.\n Está creado por los fans de la serie,\n no afiliado con los dueños de Pokémon Mundo Misterioso.</value>
+  </data>
+  <data name="Credits_Line_009" xml:space="preserve">
+    <value>Pokémon Mundo Misterioso es una marca de\n Nintendo, Creatures, GAME FREAK, Spike Chunsoft</value>
+  </data>
+  <data name="Ending_Cutscene_Line_001" xml:space="preserve">
+    <value>Bien hecho.[pause=0] Has emergido victorioso.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_002" xml:space="preserve">
+    <value>Tu equipo ha demostrado ser digno de llevar el nombre de Maestro del Gremio.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_003" xml:space="preserve">
+    <value>Llevando el título contigo,[pause=0] podemos descansar sabiendo que nuestro legado va a estar en buenas manos.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_004" xml:space="preserve">
+    <value>¡Felicidades![pause=0] ¡Sabía que podíais hacerlo~!</value>
+  </data>
+  <data name="Ending_Cutscene_Line_005" xml:space="preserve">
+    <value>Tu historia como equipo explorador ha terminado...</value>
+  </data>
+  <data name="Ending_Cutscene_Line_006" xml:space="preserve">
+    <value>Ahora empezará vuestra historia como líderes-[pause=0]\n¡para la próxima generación de exploradores!</value>
+  </data>
+  <data name="Ending_Cutscene_Line_007" xml:space="preserve">
+    <value>Sed testigos...[pause=0]¡del surgimiento de un nuevo gremio,[pause=0]{0}!</value>
+  </data>
+  <data name="Ending_Cutscene_Line_008" xml:space="preserve">
+    <value>{0} regresaron a la base de la montaña...</value>
+  </data>
+  <data name="Ending_Cutscene_Line_009" xml:space="preserve">
+    <value>...donde fueron recibidos con aplausos y elogios.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_010" xml:space="preserve">
+    <value>Se movieron a una región lejana...</value>
+  </data>
+  <data name="Ending_Cutscene_Line_011" xml:space="preserve">
+    <value>Donde obtuvieron fama como gremio de exploración de primera clase.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_012" xml:space="preserve">
+    <value>Y con el tiempo, los cuentos de sus hazañas\n gradualmente se convirtieron en leyenda...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_001" xml:space="preserve">
+    <value>Contempla...[pause=0] la salida del sol.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_002" xml:space="preserve">
+    <value>Soy Xatu.[pause=0]\nGuardianes somos, de las Pruebas del Maestro del Gremio.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_003" xml:space="preserve">
+    <value>{0}...[pause=0]\n Has tenido éxito al haber alcanzado la cumbre...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_004" xml:space="preserve">
+    <value>Lo has hecho bien para haber alcanzado la cima...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_005" xml:space="preserve">
+    <value>Habiendo triunfado en las batallas contra los Pokémon en la mazmorra...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_006" xml:space="preserve">
+    <value>Habiendo navegado entre las interminables incertidumbres de los Territorios Misteriosos...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_007" xml:space="preserve">
+    <value>Y has hecho un montón de amigos~</value>
+  </data>
+  <data name="Expo_Cutscene_Line_008" xml:space="preserve">
+    <value>Hay un sólo desafío más.[pause=0]\nDebes vencernos en combate.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_009" xml:space="preserve">
+    <value>Para poner a prueba a los sucesores de nuestro legado,[pause=0] nosotros seremos tu prueba final.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_010" xml:space="preserve">
+    <value>Superaos a vosotros mismos,[pause=0] {0}.[pause=0]\n ¡Demostrad ser dignos del título de Maestro del Gremio!</value>
+  </data>
+</root>

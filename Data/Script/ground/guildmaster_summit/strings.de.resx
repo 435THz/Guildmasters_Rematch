@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="Credits_Line_001" xml:space="preserve">
+    <value>Pokémon Mystery Dungeon:\nOrigins</value>
+  </data>
+  <data name="Credits_Line_002" xml:space="preserve">
+    <value>Designed, Programmiert, Geschrieben von\n\nAudino</value>
+  </data>
+  <data name="Credits_Line_003" xml:space="preserve">
+    <value>Programmierung von\n\nPsyCommando\nAnty-Lemon\nPalika\nParakoopa</value>
+  </data>
+  <data name="Credits_Line_004" xml:space="preserve">
+    <value>Individuelle Grafiken von\n\nLurils\nRao Kurai\nMusicalCombusken\nSilverDeoxys563\nFable</value>
+  </data>
+  <data name="Credits_Line_005" xml:space="preserve">
+    <value>Extrahierte Grafiken von\n\nPokémon Smaragd\nPokémon Mystery Dungeon: Team Rot\nPokémon Mystery Dungeon: Erkundungsteam Himmel\nPokémon Ranger: Spuren des Lichts</value>
+  </data>
+  <data name="Credits_Line_006" xml:space="preserve">
+    <value>Extrahierte Audiodaten von\n\nPokémon Mystery Dungeon: Team Rot\nPokémon Mystery Dungeon: Erkundungsteam Himmel\nPokémon Mystery Dungeon: Portale in die Unendlichkeit\nZwei!!\nEtrian Odyssey\nEtrian Odyssey III: The Drowned City\nMade in Abyss</value>
+  </data>
+  <data name="Credits_Line_007" xml:space="preserve">
+    <value>Übersetzte Texte von\n\nVan-Tazen (FR)\nAlicia (FR)\nlagpu1 (ES)\nDasK (ES)\nDSgamer93 (DE)\nLars Preston (DE)\nScout (DE)\nP1ka (DE)\nLily (DE)\nAthalePrime (PT)\nBarry (KO)\nDew (ZH)</value>
+  </data>
+  <data name="Credits_Line_008" xml:space="preserve">
+    <value>Pokémon Mystery Dungeon: Origins ist ein unoffizielles Projekt.\n Es wurde von Fans der Spielereihe kreiert,\nunabhängig von den Eigentümern von Pokémon Mystery Dungeon.</value>
+  </data>
+  <data name="Credits_Line_009" xml:space="preserve">
+    <value>Pokémon Mystery Dungeon ist eine Marke von \nNintendo, Creatures, GAME FREAK, Spike Chunsoft.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_001" xml:space="preserve">
+    <value>Gut gemacht.[pause=0] Ihr tretet siegreich hervor.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_002" xml:space="preserve">
+    <value>Euer Team ist es würdig, den Titel des Gildenmeisters zu tragen.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_003" xml:space="preserve">
+    <value>Mit euch als Träger des Titels[pause=0] können wir uns sicher sein, dass unser Erbe in guten Händen sein wird.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_004" xml:space="preserve">
+    <value>Gratulation![pause=0] Ich wusste, dass ihr es schafft~!</value>
+  </data>
+  <data name="Ending_Cutscene_Line_005" xml:space="preserve">
+    <value>Eure Geschichte als Erkundungsteam ist nun zu Ende ...</value>
+  </data>
+  <data name="Ending_Cutscene_Line_006" xml:space="preserve">
+    <value>Nun beginnt eure Geschichte als Anführer -[pause=0]\nFür die nächste Generation von Erkundern!</value>
+  </data>
+  <data name="Ending_Cutscene_Line_007" xml:space="preserve">
+    <value>Werdet Zeuge...[pause=0] des Aufstiegs einer neuen Gilde,[pause=0] {0}!</value>
+  </data>
+  <data name="Ending_Cutscene_Line_008" xml:space="preserve">
+    <value>{0} ist zum Fuß des Berges zurückgekehrt ...</value>
+  </data>
+  <data name="Ending_Cutscene_Line_009" xml:space="preserve">
+    <value>...wo es mit Lob und Jubel empfangen wurde.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_010" xml:space="preserve">
+    <value>Es zog in eine weit entfernte Region...</value>
+  </data>
+  <data name="Ending_Cutscene_Line_011" xml:space="preserve">
+    <value>Wo es als erstklassige Erkundungsgilde berühmt geworden ist.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_012" xml:space="preserve">
+    <value>Und über Zeit sind die Geschichten von ihren Taten zu Legenden geworden.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_001" xml:space="preserve">
+    <value>Werde Zeuge...[pause=0] dieses Sonnenaufgangs.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_002" xml:space="preserve">
+    <value>Ich bin Xatu.[pause=0]\nWir sind die Wächter des Gildenmeisters Prüfungen.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_003" xml:space="preserve">
+    <value>{0}...[pause=0]\nDurch das Erreichen des Gipfels habt ihr euch selbst bewiesen.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_004" xml:space="preserve">
+    <value>Das habt ihr gut gemacht den Gipfel zu erreichen...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_005" xml:space="preserve">
+    <value>Im Kampfe habt ihr über viele Pokémon triumphiert...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_006" xml:space="preserve">
+    <value>Habt euch durch die endlosen Gefahren der mysteriösen Dungeons navigiert...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_007" xml:space="preserve">
+    <value>Und dabei habt ihr euch mit vielen freundlichen Freunden angefreundet~</value>
+  </data>
+  <data name="Expo_Cutscene_Line_008" xml:space="preserve">
+    <value>Eine weitere Herausforderung bleibt jedoch übrig.[pause=0]\nIhr müsst uns im Kampfe entgegentreten.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_009" xml:space="preserve">
+    <value>Um die Nachfolge unseres Vermächtnisses zu testen,[pause=0] werden wir als eure letzte Prüfung dienen.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_010" xml:space="preserve">
+    <value>Übertrefft euch selbst,[pause=0] {0}.[pause=0]\nBeweist, dass ihr des Titels des Gildenmeisters würdig seid!</value>
+  </data>
+</root>

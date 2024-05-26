@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="Ending_Cutscene_Line_001" xml:space="preserve">
+    <value>Muito bem.[pause=0] Vocês venceram.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_002" xml:space="preserve">
+    <value>Sua equipe provou ser digna de carregar o título de Mestre de Guilda.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_003" xml:space="preserve">
+    <value>Com vocês carregando o título,[pause=0] nós podemos descansar sabendo que nosso legado vai estar em boas mãos.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_004" xml:space="preserve">
+    <value>Parabéns![pause=0] Eu sabia que vocês eram capazes~!</value>
+  </data>
+  <data name="Ending_Cutscene_Line_005" xml:space="preserve">
+    <value>Sua história como uma equipe de exploração chegou a um fim...</value>
+  </data>
+  <data name="Ending_Cutscene_Line_006" xml:space="preserve">
+    <value>Agora vocês devem começar sua história como líderes-[pause=0]\npara a próxima geração de exploradores!</value>
+  </data>
+  <data name="Ending_Cutscene_Line_007" xml:space="preserve">
+    <value>Testemunhe...[pause=0] o surgimento de uma nova guilda,[pause=0] {0}!</value>
+  </data>
+  <data name="Ending_Cutscene_Line_008" xml:space="preserve">
+    <value>{0} retornaram ao pé da montanha...</value>
+  </data>
+  <data name="Ending_Cutscene_Line_009" xml:space="preserve">
+    <value>...onde foram recebidos com elogios and aplausos.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_010" xml:space="preserve">
+    <value>Eles se mudaram para uma região distante...</value>
+  </data>
+  <data name="Ending_Cutscene_Line_011" xml:space="preserve">
+    <value>Onde ganharam fama como uma guilda de exploração de primeira classe.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_012" xml:space="preserve">
+    <value>E com o tempo, contos de suas conquistas\ngradualmente se converteram em lenda...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_001" xml:space="preserve">
+    <value>Contemple...[pause=0] o nascer do sol.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_002" xml:space="preserve">
+    <value>Eu sou Xatu.[pause=0]\nGuardiões nós somos, dos Testes do Mestre de Guilda.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_003" xml:space="preserve">
+    <value>{0}...[pause=0]\n Você se saiu muito bem para alcançar o topo...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_005" xml:space="preserve">
+    <value>Tendo triunfado nas batalhas contra os Pokémon do calabouço...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_006" xml:space="preserve">
+    <value>Navegado pelas incertezas intermináveis dos Calabouços Misteriosos...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_007" xml:space="preserve">
+    <value>E você fez muuuuitos amigos~</value>
+  </data>
+  <data name="Expo_Cutscene_Line_008" xml:space="preserve">
+    <value>Há apenas um desafio restante.[pause=0]\nEnfrente-nos em batalha.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_009" xml:space="preserve">
+    <value>Para testar os sucessores de nosso legado,[pause=0] nós seremos seu último teste.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_010" xml:space="preserve">
+    <value>Superem a si mesmos,[pause=0]{0}.[pause=0]\nProvem que vocês merecem o título de Mestres de Guilda!</value>
+  </data>
+</root>

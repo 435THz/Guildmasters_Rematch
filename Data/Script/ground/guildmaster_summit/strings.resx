@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="Carry_Line_Route" xml:space="preserve">
+    <value>[tmp](carry) I'm on my routine route in forest camp!</value>
+  </data>
+  <data name="Credits_Line_001" xml:space="preserve">
+    <value>Pokémon Mystery Dungeon:\nOrigins</value>
+  </data>
+  <data name="Credits_Line_002" xml:space="preserve">
+    <value>Designed, Programmed, Written by\n\nAudino</value>
+  </data>
+  <data name="Credits_Line_003" xml:space="preserve">
+    <value>Programming by\n\nPsyCommando\nAnty-Lemon\nPalika\nParakoopa</value>
+  </data>
+  <data name="Credits_Line_004" xml:space="preserve">
+    <value>Custom Graphics by\n\nLurils\nRao Kurai\nMusicalCombusken\nSilverDeoxys563\nFable</value>
+  </data>
+  <data name="Credits_Line_005" xml:space="preserve">
+    <value>Extracted Graphics from\n\nPokémon Emerald\nPokémon Mystery Dungeon: Red Rescue Team\nPokémon Mystery Dungeon: Explorers of Sky\nPokémon Ranger: Guardian Signs</value>
+  </data>
+  <data name="Credits_Line_006" xml:space="preserve">
+    <value>Extracted Audio from\n\nPokémon Mystery Dungeon: Red Rescue Team\nPokémon Mystery Dungeon: Explorers of Sky\nPokémon Mystery Dungeon: Gates to Infinity\nZwei!!\nEtrian Odyssey\nEtrian Odyssey III: The Drowned City\nMade in Abyss</value>
+  </data>
+  <data name="Credits_Line_007" xml:space="preserve">
+    <value>Translated text from\n\nVan-Tazen (FR)\nAlicia (FR)\nlagpu1 (ES)\nDasK (ES)\nDSgamer93 (DE)\nLars Preston (DE)\nScout (DE)\nP1ka (DE)\nLily (PT)\nBarry (KO)\nDew (ZH)</value>
+  </data>
+  <data name="Credits_Line_008" xml:space="preserve">
+    <value>Pokémon Mystery Dungeon: Origins is an unofficial project.\n It is created by fans of the series,\nunaffiliated with the owners of Pokémon Mystery Dungeon.</value>
+  </data>
+  <data name="Credits_Line_009" xml:space="preserve">
+    <value>Pokémon Mystery Dungeon is copyright\nNintendo, Creatures, GAME FREAK, Spike Chunsoft.</value>
+  </data>
+  <data name="Deliver_Line_Route" xml:space="preserve">
+    <value>[tmp](deliver) I'm on my routine route in forest camp!</value>
+  </data>
+  <data name="Ending_Cutscene_Line_001" xml:space="preserve">
+    <value>Well done.[pause=0] You have emerged victorious.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_002" xml:space="preserve">
+    <value>Your team has proven itself worthy of bearing the title of Guildmaster.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_003" xml:space="preserve">
+    <value>With you carrying on the title,[pause=0] we can rest assured our legacy will be in good hands.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_004" xml:space="preserve">
+    <value>Congratulations,[pause=0] I knew you could do it~!</value>
+  </data>
+  <data name="Ending_Cutscene_Line_005" xml:space="preserve">
+    <value>Your story as an exploration team has ended...</value>
+  </data>
+  <data name="Ending_Cutscene_Line_006" xml:space="preserve">
+    <value>Now you shall begin your story as leaders-[pause=0]\nfor the next generation of explorers!</value>
+  </data>
+  <data name="Ending_Cutscene_Line_007" xml:space="preserve">
+    <value>Witness it...[pause=0] the rise of a new guild,[pause=0] {0}!</value>
+  </data>
+  <data name="Ending_Cutscene_Line_008" xml:space="preserve">
+    <value>{0} returned to the base of the mountain...</value>
+  </data>
+  <data name="Ending_Cutscene_Line_009" xml:space="preserve">
+    <value>...where they were met with cheers and accolades.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_010" xml:space="preserve">
+    <value>They moved on to a far away region...</value>
+  </data>
+  <data name="Ending_Cutscene_Line_011" xml:space="preserve">
+    <value>Where they garnered fame as a first-class exploration guild.</value>
+  </data>
+  <data name="Ending_Cutscene_Line_012" xml:space="preserve">
+    <value>And over time, the tales of their feats\ngradually faded into legend...</value>
+  </data>
+  <data name="Ending_Cutscene_Line_Ask_001" xml:space="preserve">
+    <value>[tmp]It seems that you have yet to form your team.[br]Tell us,[pause=30] what shall the world know you by?</value>
+  </data>
+  <data name="Ending_Cutscene_Line_Ask_002" xml:space="preserve">
+    <value>[tmp]Is {0} ok?</value>
+  </data>
+  <data name="Expo_Cutscene_Line_001" xml:space="preserve">
+    <value>Witness it...[pause=0] the rising of the sun.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_002" xml:space="preserve">
+    <value>I am Xatu.[pause=0]\nGuardians are we, of the Guildmaster Trials.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_003" xml:space="preserve">
+    <value>{0}...[pause=0]\nYou have done well to have reached the summit...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_004" xml:space="preserve">
+    <value>You have done well to have reached the summit...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_005" xml:space="preserve">
+    <value>Having triumphed over the battles against the dungeon Pokémon...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_006" xml:space="preserve">
+    <value>Having navigated the endless uncertainties of the Mystery Dungeons...</value>
+  </data>
+  <data name="Expo_Cutscene_Line_007" xml:space="preserve">
+    <value>And you've made lots of friendly friends~</value>
+  </data>
+  <data name="Expo_Cutscene_Line_008" xml:space="preserve">
+    <value>There is but one challenge left.[pause=0]\nYou must face us in battle.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_009" xml:space="preserve">
+    <value>To test the successors of our legacy,[pause=0] we shall serve as your final trial.</value>
+  </data>
+  <data name="Expo_Cutscene_Line_010" xml:space="preserve">
+    <value>Surpass yourselves,[pause=0] {0}.[pause=0]\nProve yourselves worthy of the title of Guildmaster!</value>
+  </data>
+  <data name="Expo_Cutscene_Line_011" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Expo_Cutscene_Line_012" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Expo_Cutscene_Line_013" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Expo_Cutscene_Line_014" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Noctowl_Reward_Line_001" xml:space="preserve">
+    <value>[tmp]So, they're really gone...</value>
+  </data>
+  <data name="Noctowl_Reward_Line_002" xml:space="preserve">
+    <value>[tmp]Never did I think someone would conquer all of the Guildmaster Trail.[br]But you've proved me wrong.</value>
+  </data>
+  <data name="Noctowl_Reward_Line_003" xml:space="preserve">
+    <value>[tmp]A token of my appreciation.  You've earned it.</value>
+  </data>
+  <data name="Rival_1_Line_001" xml:space="preserve">
+    <value>[tmp]If it weren't for zangoose, I wouldn't have gotten this far.[br]Our rivalries pushed each other to excel.[br]But I still can't stand the sight of her!</value>
+  </data>
+  <data name="Rival_2_Line_001" xml:space="preserve">
+    <value>If it weren't for seviper, I wouldn't have gotten this far.[br]Our rivalries pushed each other to excel.[br]But I still can't stand the sight of her!</value>
+  </data>
+  <data name="Supply_Line_001" xml:space="preserve">
+    <value>[tmp]Beautiful sight isn't it?</value>
+  </data>
+  <data name="Supply_Line_002" xml:space="preserve">
+    <value>[tmp]yea</value>
+  </data>
+  <data name="Supply_Line_003" xml:space="preserve">
+    <value>[tmp]yea</value>
+  </data>
+</root>
