@@ -614,7 +614,17 @@ function guildmaster_summit.Rematch_flow()
     if ch then
       UI:WaitShowDialogue("Then let us begin...")
       SV.guildmaster_summit.rematch = true
-      -- TODO consume revival orb
+      local item_slot = GAME:FindPlayerItem(orb.ID, false, true)
+      if item_slot:IsValid() then
+        GAME:TakePlayerBagItem(item_slot.Slot)
+      else
+        item_slot = GAME:FindPlayerItem(orb.ID, true, false)
+        if item_slot:IsValid() then
+		    GAME:TakePlayerEquippedItem(item_slot.Slot)
+        else
+            GAME:TakePlayerStorageItem(orb.ID)
+        end
+      end
       
       GAME:WaitFrames(10)
       SOUND:PlayBattleSE("EVT_Fade_White")
