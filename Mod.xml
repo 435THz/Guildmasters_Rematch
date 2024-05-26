@@ -1,7 +1,7 @@
 <Header>
   <Name>Guildmaster's Rematch</Name>
   <Author>MistressNebula</Author>
-  <Description>Makes it possible to rematch the final boss of the game. The fight can be triggered from a new furniture beside the Guildmaster's Hut.
+  <Description>Makes it possible to rematch the final boss of the game. The fight can be triggered when on top of Guildmaster Summit.
 Yes it has level scaling.</Description>
   <Namespace>finalbossrematch</Namespace>
   <UUID>1FE288FB-7AC8-407F-BFAB-750FBAF4A1D0</UUID>
